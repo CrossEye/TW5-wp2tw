@@ -19,7 +19,7 @@ Usage
 -----
 
 ```shell
-> node path/to/TW5-wptw path/to/input.csv path/to/output.json
+> node path/to/TW5-wp2tw path/to/input.csv path/to/output.json
 ```
 
 Drag the resulting output file onto the desired TiddlyWiki (possibly an empty one)
