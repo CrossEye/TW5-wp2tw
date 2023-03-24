@@ -1,0 +1,4 @@
+node_modules/
+package-lock.json
+exports.csv
+converted.json
